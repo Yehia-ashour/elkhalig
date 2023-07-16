@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Decalotype-Black
+font link: https://hanken.co/product/decalotype/
+font author: Hanken Design Co.
+font author site: https://hanken.co/
+Slogan Font: Fanwood Text.otf
+
+icon designer: Lee Mette
+icon designer link: /leemette
+        
+{"bg":"transparent","icon-gradient-0":"#D88F9A","icon-gradient-1":"#F0EBCB","font":"#000000","slogan":"#141414"}
+      
